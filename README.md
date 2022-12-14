@@ -1,12 +1,19 @@
 # API-Project-MERN
-This is an API project in Node js
+This is an API project for backend in Node js
 # Install Dependencies
 
-For Backend - npm i
+For Backend-
+```bash
+  npm i
+```
+
 
 # Run Backend
 
-npm start
+```bash
+  npm start
+```
+
 
 # Env Variables
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
